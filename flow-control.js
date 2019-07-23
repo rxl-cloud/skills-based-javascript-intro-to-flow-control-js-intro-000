@@ -1,7 +1,8 @@
 function basicTeenager(age) {
-    parseInt('age') === 13 && <=19
-  if (age) {
-     "You are a basic teenager!"
+  if(age >= 13 && age <=19) {
+    return 'You are a teenager!'}
+  }
+
   }
 }
 function teenager(age) {
