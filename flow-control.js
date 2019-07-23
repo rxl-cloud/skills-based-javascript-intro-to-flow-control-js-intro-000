@@ -32,6 +32,7 @@ function ternaryTeenager(age) {
 }
 }
 }
+
 function switchAge(age) {
 
 }
